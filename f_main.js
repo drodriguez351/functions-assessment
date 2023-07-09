@@ -17,6 +17,6 @@ function largestNum(arr) {
 }
 
 firstLetterName("David");
-console.log(divisibleByTwo(8));
-console.log(divisibleByTwo(5));
+console.log("The number 8 is divisible by 2: " + divisibleByTwo(8));
+console.log("The number 5 is divisible by 2: " + divisibleByTwo(5));
 console.log(largestNum([3, 5, 6, 7, 101, 6]));
